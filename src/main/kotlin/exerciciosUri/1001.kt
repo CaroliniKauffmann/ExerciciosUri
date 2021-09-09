@@ -2,7 +2,7 @@ package exerciciosUri
 
 import java.util.*
 
-fun main(args: Array<String>) {
+fun main() {
 
     val scan = Scanner(System.`in`)
     val valorA = scan.nextLine().toInt()

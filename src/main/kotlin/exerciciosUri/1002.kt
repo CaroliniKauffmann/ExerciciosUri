@@ -4,7 +4,7 @@ import java.util.*
 import kotlin.math.PI
 import kotlin.math.pow
 
-fun main(args: Array<String>) {
+fun main() {
 
     val scan = Scanner(System.`in`)
     val raio = scan.nextLine().toDouble()
